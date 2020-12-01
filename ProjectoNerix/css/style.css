@@ -1,0 +1,54 @@
+/**BODY**/
+body{
+    margin-top: 0px;
+    margin: 0px 0px;
+    
+}
+
+
+/**HEADER**/
+header{
+    background-color: #F3E0F3;
+}
+
+.Linksheader a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 5px;
+    
+    
+}
+
+.Linksheader{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    
+    
+}
+/**MAIN**/
+.proyectomain{
+    text-align: center;
+    color: black;
+    
+    
+}
+.imagenesmodelo img{
+    width: 400px;
+    height: 470px;
+    
+    
+    
+}
+.imagenesmodelo{
+    display: flex;
+    flex-direction: column;
+    margin: 12px;
+    
+}
+.main2{
+    display: flex;
+    justify-content: center;
+}
+
